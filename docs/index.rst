@@ -1,6 +1,6 @@
-===
+=========
 Tech And Stuff Documentation
-===
+=========
 
 **Tech And Stuff** is a documentation where you can learn about stuff. For example, .zip formats.
 
