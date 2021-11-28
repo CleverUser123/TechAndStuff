@@ -13,3 +13,9 @@ Zip Formats
 ---
 
 A .zip format is generally used to include folders. As you cannot normally upload a folder, if you use zip formats, you can put folders inside. However, you will need a zipping software. I reccomend `7-zip <https://7-zip.org>`_.
+
+---
+And More
+---
+
+Feel free to explore this documentation.
